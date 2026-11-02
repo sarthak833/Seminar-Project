@@ -21,13 +21,15 @@ Developed by **Cyber Nexus**, this project illustrates how machine learning assi
 
 ## Team & Academic Attribution
 
+- **Student Name**: Sarthak Sunil Thorat
+- **PRN**: 2125UCSM1105
 - **Project Group**: Cyber Nexus
 - **Project Title**: AI-Powered Cyber Attacks and Defence: Challenges, Detection, and Future Solutions
 - **Proposed Framework**: Cyber Guardian AI
 - **Domain**: Cybersecurity
 - **Subdomain**: Artificial Intelligence in Cybersecurity
 - **Institutional Context**: Seminar Project, Sanjivani University
-- **Repository**: [RushikeshNirmal45/Seminar---Rushikesh-Nirmal](https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal)
+- **Repository**: [sarthak833/Seminar-Project](https://github.com/sarthak833/Seminar-Project)
 
 ---
 
@@ -177,7 +179,7 @@ flowchart TD
 ## Repository Structure
 
 ```
-Seminar---Rushikesh-Nirmal/
+Seminar-Project/
 ├── app.py                      # Main Streamlit dashboard application
 ├── requirements.txt            # Pinned, reproducible project dependencies
 ├── README.md                   # Comprehensive repository documentation
@@ -233,8 +235,8 @@ Seminar---Rushikesh-Nirmal/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal.git
-   cd Seminar---Rushikesh-Nirmal
+   git clone https://github.com/sarthak833/Seminar-Project.git
+   cd Seminar-Project
    ```
 
 2. **Create and Activate a Virtual Environment** (Recommended):

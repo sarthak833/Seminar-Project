@@ -73,9 +73,9 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        "Get Help": "https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal",
-        "Report a bug": "https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal/issues",
-        "About": "Cyber Guardian AI — Educational ML Cybersecurity Prototype. Project Group: Cyber Nexus.",
+        "Get Help": "https://github.com/sarthak833/Seminar-Project",
+        "Report a bug": "https://github.com/sarthak833/Seminar-Project/issues",
+        "About": "Cyber Guardian AI — Educational ML Cybersecurity Prototype. Developed by Sarthak Sunil Thorat (PRN: 2125UCSM1105).",
     },
 )
 
@@ -990,10 +990,12 @@ def page_about() -> None:
     |---|---|
     | **Project Title** | AI-Powered Cyber Attacks and Defence |
     | **Subtitle** | Challenges, Detection, and Future Solutions |
+    | **Student Name** | Sarthak Sunil Thorat |
+    | **PRN** | 2125UCSM1105 |
     | **Framework** | Cyber Guardian AI |
     | **Project Group** | Cyber Nexus |
     | **Domain** | Cybersecurity / AI in Cybersecurity |
-    | **Repository** | [GitHub](https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal) |
+    | **Repository** | [GitHub](https://github.com/sarthak833/Seminar-Project) |
 
     ## What Is Implemented
 
@@ -1063,7 +1065,7 @@ def page_about() -> None:
 
     ## License
 
-    MIT License — see [LICENSE](https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal/blob/master/LICENSE) for details.
+    MIT License — see [LICENSE](https://github.com/sarthak833/Seminar-Project/blob/master/LICENSE) for details.
     """)
 
 
